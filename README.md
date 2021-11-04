@@ -42,7 +42,6 @@ Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High lev
 ## IDEs and OS
 <p>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/640px-Logo-ubuntu_cof-orange-hex.svg.png"/>
 <img align="left" height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
 </p><br><br><br>
