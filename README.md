@@ -46,7 +46,7 @@ Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High lev
 <img align="left" height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
 </p><br><br><br>
 
-## Pay me a coffee ♡
+## Pay me a coffee? ♡
 [<img align="left" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>][donate]<br>
 
 ## Contact Me
