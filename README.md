@@ -25,7 +25,7 @@ Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High lev
 
 ## Still Studying
 <p>
-<img align="left" height="16" src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg"/>
+<img align="left" height="22" src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_line_logo_icon_146579.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
