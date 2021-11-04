@@ -5,8 +5,8 @@ Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High lev
 
 ## Languages and Frameworks
 <p>
-<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
-<img align="left" src="https://hight.io/_nuxt/img/tailwind.3558838.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
+<img align="left" height="32" src="https://hight.io/_nuxt/img/tailwind.3558838.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
