@@ -1,6 +1,6 @@
 <h3>About</h3>
 Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High level of knowledge in Ruby on Rails, focused and able to do whatever is necessary. I appreciate having the best result and also solve possible problems. I work in Full-Stack Web Development with Ruby on Rails, PostgreSQL, AlpineJS, TailwindCSS. Open for new proposals.<br>
-<h3>Currently working at Digital Cabral as a web developer using Ruby on Rails.</h3><br><br>
+<h3>Working at Digital Cabral as a web developer.</h3><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)<br>
 
