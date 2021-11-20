@@ -4,6 +4,8 @@ Hello, my name is Henrique Cesar, I'm 21 years old and I'm from Brazil. High lev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)<br>
 
+![Snake animation](https://github.com/picktherick)
+
 ## Languages and Frameworks
 <p>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
