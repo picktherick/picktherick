@@ -3,7 +3,7 @@ My name is Henrique, born and raised in Poços de Caldas – MG and I am 21 year
 I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a programming language that makes me happy to develop new solutions. I like TailwindCSS as it is a perfect match. I work with front-end and back-end.<br><br>
 Experience with: SCRUM, Ruby on Rails, MVC, CRUD, Asset Pipeline, PostgreSQL, HTML5, CSS3, JavaScript, WSL Ubuntu, Git, GitFlow, GitHub, Node.JS, npm, yarn, webpacker, Bootstrap, XML, JSON, Figma , Firebase, Adobe Photoshop.</h3><br><br>
 
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)</div><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)<br>
 
 ![Snake animation](https://github.com/picktherick/picktherick/blob/output/github-contribution-grid-snake.svg)
 
