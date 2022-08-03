@@ -23,21 +23,21 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
- <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
+<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
+<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 </p><br><br><br>
 
 ## Databases
 <p>
   <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
   <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
+  <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
 </p><br><br><br>
 
 ## Still Studying
 <p>
 <img align="left" height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
+<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
 <img align="left" height="32" src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/32/unityeditoricon_103179.png"/>
