@@ -24,7 +24,6 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
 <img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
-<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 </p><br><br><br>
 
 ## Databases
