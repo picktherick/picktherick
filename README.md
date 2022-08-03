@@ -4,7 +4,7 @@ My name is Henrique, born and raised in Poços de Caldas – MG, and I am 21 yea
 
 I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a programming language that makes me happy to develop new solutions. Furthermore, I like Tailwind CSS as it is a perfect match. I work with front-end and back-end.<br><br>
  
-Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3, JavaScript, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase,  Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
+Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)<br>
 
@@ -23,6 +23,9 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
+ <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 </p><br><br><br>
 
 ## Databases
@@ -33,12 +36,11 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3
 
 ## Still Studying
 <p>
-<img align="left" height="32" src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_line_logo_icon_146579.png"/>
+<img align="left" height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
+<img align="left" height="32" src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/32/unityeditoricon_103179.png"/>
-  
 </p><br><br><br>
 
 ## Design
