@@ -4,56 +4,128 @@ My name is Henrique, born and raised in Poços de Caldas – MG, and I am 21 yea
 
 I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a programming language that makes me happy to develop new solutions. Furthermore, I like Tailwind CSS as it is a perfect match. I work with front-end and back-end.<br><br>
  
-Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
+Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, RVM, NVM, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
 
-<img align="middle" src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSKC0CRGCeQBLTjnkhHVU4u77tA-nE6q8ev8m2ykz-6TQw2cTNYci9tWaTF_94u7JPDtHJoUx29R8SNK-wBcteCDGK8=w1920-h947" alt="Missing Non-important Banner">
+<p align="center">
+ <a href="https://www.linkedin.com/in/rickkque"><img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSKC0CRGCeQBLTjnkhHVU4u77tA-nE6q8ev8m2ykz-6TQw2cTNYci9tWaTF_94u7JPDtHJoUx29R8SNK-wBcteCDGK8=w1920-h947" alt="Missing Non-important Banner"></a>
+</p>
+
 
 ## Languages and Frameworks
 <p>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"/>
-<img align="left" height="32" src="https://hight.io/_nuxt/img/tailwind.3558838.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_node_icon_130301.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/npm_original_wordmark_logo_icon_146402.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
-<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
-</p><br><br><br>
+ Experience with:
+ <ul>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
+   Ruby
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
+   Rails
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
+   HTML5
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
+   CSS3
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"/>
+   JavaScript
+  </li>
+  <li>
+   <img height="32" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default"/>
+   TailwindCSS
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
+   Bootstrap
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_node_icon_130301.png"/>
+   NodeJS
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/npm_original_wordmark_logo_icon_146402.png"/>
+   NPM
+  </li>
+  <li>
+   <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
+   Yarn
+  </li>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
+   Git
+  </li>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
+   Firebase
+  </li>
+ </ul>
+ Learning:
+ <ul>
+  <li>
+   <img height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
+   TDD
+  </li>
+ </ul>
+</p>
 
 ## Databases
 <p>
-  <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
-  <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
-  <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
-</p><br><br><br>
-
-## Still Studying
-<p>
-<img align="left" height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
-<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
-<img align="left" height="32" src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/32/unityeditoricon_103179.png"/>
-</p><br><br><br>
+ <ul>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
+   SQLite3
+  </li>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
+   PostgreSQL
+  </li>
+  <li>
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
+   MySQL
+  </li>
+ </ul>
+</p>
 
 ## Design
 <p>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/canva_logo_icon_168460.png"/>
-</p><br><br><br>
+ <ul>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
+   Figma
+  </li>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+   Adobe Photoshop
+  </li>
+ </ul>
+</p>
 
 ## IDEs and OS
 <p>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/640px-Logo-ubuntu_cof-orange-hex.svg.png"/>
-<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
-</p><br><br><br>
+ <ul>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
+   Visual Studio Code
+  </li>
+  <li>
+   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/640px-Logo-ubuntu_cof-orange-hex.svg.png"/>
+   Ubuntu
+  </li>
+  <li>
+   <img height="32" src="https://www.pc-tips.info/wp-content/uploads/2021/11/Windows-Subsystem-for-Linux-WSL-installeren-in-Windows-11.png"/>
+   WSL
+  </li>
+  <li>
+   <img height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
+   Windows
+  </li>
+ </ul>
+</p>
 
 ## Pay me a coffee? ♡
 [<img align="left" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>][donate]<br>
