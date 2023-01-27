@@ -6,8 +6,6 @@ I have a passion for developing and participating in community projects, I ended
  
 Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picktherick&show_icons=false&theme=dark)<br>
-
 ![Snake animation](https://github.com/picktherick/picktherick/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages and Frameworks
