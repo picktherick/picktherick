@@ -133,15 +133,9 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, R
 ## Contact Me
 [<img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]
 [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
-[<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-[<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedIn]
-[<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 
 [donate]:https://nubank.com.br/pagar/1kvjqh/pZII7Fvb9u
 [gmail]:https://mail.google.com/mail/u/0/#search/Contact+me+on+my+email%3A+rickkque%40gmail.com
 [whatsapp]:http://api.whatsapp.com/send?phone=5535992260481
-[facebook]:https://www.facebook.com/henrique.cesar.96780/
-[instagram]:https://www.instagram.com/rickkque/
-[twitter]:https://twitter.com/rickkque
 [linkedIn]:https://www.linkedin.com/in/rickkque
