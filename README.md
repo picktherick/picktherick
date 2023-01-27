@@ -6,7 +6,7 @@ I have a passion for developing and participating in community projects, I ended
  
 Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
 
-<img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSKC0CRGCeQBLTjnkhHVU4u77tA-nE6q8ev8m2ykz-6TQw2cTNYci9tWaTF_94u7JPDtHJoUx29R8SNK-wBcteCDGK8=w1920-h947" alt="Missing Non-important Banner" style="margin: 0px 50px;">
+<img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSKC0CRGCeQBLTjnkhHVU4u77tA-nE6q8ev8m2ykz-6TQw2cTNYci9tWaTF_94u7JPDtHJoUx29R8SNK-wBcteCDGK8=w1920-h947" alt="Missing Non-important Banner">
 
 ## Languages and Frameworks
 <p>
