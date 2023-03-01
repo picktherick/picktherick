@@ -1,15 +1,10 @@
 <h3>About</h3>
 
-My name is Henrique, born and raised in Poços de Caldas – MG, and I am 21 years old (09/09/2000). Complete high school. I've been passionate about technology since I was little, and I've always wanted to learn something about it. Focused and able to do whatever is necessary, I value in having the best result and also solving possible problems, easy adaptation to new tasks and excellent ability in project development. I love what I do and intend to achieve all my goals and objectives.<br><br>
+My name is Henrique, born and raised in Poços de Caldas – MG, and I am 22 years old (09/09/2000). Complete high school. I've been passionate about technology since I was little, and I've always wanted to learn something about it. Focused and able to do whatever is necessary, I value in having the best result and also solving possible problems, easy adaptation to new tasks and excellent ability in project development. I love what I do and intend to achieve all my goals and objectives.<br><br>
 
 I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a programming language that makes me happy to develop new solutions. Furthermore, I like Tailwind CSS as it is a perfect match. I work with front-end and back-end.<br><br>
  
 Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, RVM, NVM, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/rickkque"><img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSKC0CRGCeQBLTjnkhHVU4u77tA-nE6q8ev8m2ykz-6TQw2cTNYci9tWaTF_94u7JPDtHJoUx29R8SNK-wBcteCDGK8=w1920-h947" alt="Missing Non-important Banner"></a>
-</p>
-
 
 ## Languages and Frameworks
 <p>
