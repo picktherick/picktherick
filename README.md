@@ -19,6 +19,10 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, R
    Rails
   </li>
   <li>
+   <img height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
+   TDD
+  </li>
+  <li>
    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
    HTML5
   </li>
@@ -57,13 +61,6 @@ Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, R
   <li>
    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
    Firebase
-  </li>
- </ul>
- Learning:
- <ul>
-  <li>
-   <img height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
-   TDD
   </li>
  </ul>
 </p>
