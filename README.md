@@ -2,7 +2,7 @@
 
 My name is Henrique, born and raised in Poços de Caldas – MG, and I am 22 years old (09/09/2000). Complete high school. I've been passionate about technology since I was little, and I've always wanted to learn something about it. Focused and able to do whatever is necessary, I value in having the best result and also solving possible problems, easy adaptation to new tasks and excellent ability in project development. I love what I do and intend to achieve all my goals and objectives.<br><br>
 
-I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a programming language that makes me happy to develop new solutions. Furthermore, I like Tailwind CSS as it is a perfect match. I work with front-end and back-end.<br><br>
+I have a passion for developing and participating in community projects, I ended up finding myself on Ruby on Rails, a framework that makes me happy to develop new solutions. Furthermore, I like Tailwind CSS as it is a perfect match. I work with front-end and back-end.<br><br>
  
 Experience with: <strong>SCRUM, MVC, CRUD, Ruby on Rails, i18N, AssetPipeline, RVM, NVM, TDD, XML, JSON, HTML5, CSS3, JavaScript, SQLite, PostgreSQL, MySQL, WSL, Git, Git Flow, GitHub, Node.JS, NPM, yarn, web packer, Firebase, Bootstrap, Tailwind CSS, UX and UI, Figma, Adobe Photoshop.</strong><br><br>
 
