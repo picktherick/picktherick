@@ -6,6 +6,8 @@ I am focused, determined and always aim to achieve the best results, solving pos
 
 Recently, I found my calling in developing with Ruby on Rails, a framework that gives me great satisfaction when creating new solutions. My priority is to develop projects that are not only innovative, but also efficient and safe, ensuring a high standard of quality and reliability in everything I do.<br><br>
 
+My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/rickkque/">See Linkedin</a>
+
 ## Languages and Frameworks
 <p>
   <strong>HIGH LEVEL OF EXPERIENCE WITH</strong>
