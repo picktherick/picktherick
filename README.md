@@ -65,6 +65,13 @@ My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/
   .... Firebase
 </p>
 
+## Learning
+<p>
+  <br>
+  <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
+  .... React
+</p>
+
 ## Databases
 <p>
   <br>
