@@ -37,7 +37,7 @@ My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/
   .... JavaScript
   <br>
   <br>
-  <img height="32" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default"/>
+  <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
   .... TailwindCSS
   <br>
   <br>
@@ -99,7 +99,7 @@ My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/
 
 ## IDEs and OS
 <p>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
+  <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
   .... Visual Studio Code
   <br>
   <br>
