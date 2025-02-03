@@ -68,50 +68,50 @@ My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/
 ## Learning
 <p>
   <br>
-  <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/2276ffe1-79fa-4f7b-9a11-429ce56fbbdd"/>
   .... React
 </p>
 
 ## Databases
 <p>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
+  <img height="32" src="https://github.com/user-attachments/assets/c07a5659-b98a-4f2d-9f5c-59086c5cfb7c"/>
   .... SQLite3
   <br>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
-  .............. PostgreSQL
+  <img height="32" src="https://github.com/user-attachments/assets/6e5d98ef-f2a3-4bbc-8274-eb9f46dc2366"/>
+  .... PostgreSQL
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
-  .............. MySQL
+  <img height="32" src="https://github.com/user-attachments/assets/1e2a4c3c-ff3f-43b1-a1c1-8506cb39a6d2"/>
+  .... MySQL
 </p>
 
 ## Design
 <p>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
-  ........ Figma
+  <img height="32" src="https://github.com/user-attachments/assets/ccfb2570-632a-44ca-817e-123170cc1794"/>
+  .... Figma
   <br>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/3877e01c-ae0a-4445-95f5-9d9e521d2afe"/>
   .... Adobe Photoshop
 </p>
 
 ## IDEs and OS
 <p>
-  <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/eee229a1-550f-487d-bd5d-419e28cdb1f7"/>
   .... Visual Studio Code
   <br>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/640px-Logo-ubuntu_cof-orange-hex.svg.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/464503eb-68df-4d23-830b-9294822b3e92"/>
   .... Ubuntu
   <br>
   <br>
-  <img height="32" src="https://www.pc-tips.info/wp-content/uploads/2021/11/Windows-Subsystem-for-Linux-WSL-installeren-in-Windows-11.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/e8887e82-6193-43d2-8ac1-7d9255875e77"/>
   .... WSL
   <br>
   <br>
-  <img height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/e90dc2e6-1ea1-44cf-8f2c-03967315d0be"/>
   .... Windows
 </p>
 
