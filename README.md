@@ -13,55 +13,55 @@ My Linkedin <i>(also at the bottom)</i> -> <a href="https://www.linkedin.com/in/
   <strong>HIGH LEVEL OF EXPERIENCE WITH</strong>
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/fe3ad385-0a2c-43ac-879e-7b1ce0383b57"/>
   .... Ruby
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/8e80b082-45b1-481f-966d-4dc2e9ec66ca"/>
   .... Rails
   <br>
   <br>
-  <img height="32" src="https://deviniciative.files.wordpress.com/2019/06/tdd-diagram_02.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/e60fef95-9e11-47f8-92b4-255bea404ba6"/>
   .... TDD
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/bd3f1c20-f73d-40b4-8c88-e42477ee8364"/>
   .... HTML5
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/84025b83-4cc4-4171-9547-5e4dacfb4394"/>
   .... CSS3
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/8d2d014a-ebce-47de-bf01-e85634f34866"/>
   .... JavaScript
   <br>
   <br>
-  <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/56db7fb5-54bc-4777-9b2b-63e3b6316b53"/>
   .... TailwindCSS
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/bfc767ae-7b91-43d5-9b3a-e8d494775912"/>
   .... Bootstrap
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_node_icon_130301.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/65644d86-cb7a-4c6b-8f88-6e0af81417b3"/>
   .... NodeJS
   <br>
   <br>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/npm_original_wordmark_logo_icon_146402.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/50542eb3-7a15-4f0d-8acf-0e17442ef41c"/>
   .... NPM
   <br>
   <br>
-  <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_logo_icon_146287.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/091de9c8-48f3-4201-a3f0-f05ff15ee04d"/>
   .... Yarn
   <br>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/b46457f0-2005-46a7-b795-01df4cb2c108"/>
   .... Git
   <br>
   <br>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
+  <img height="32" src="https://github.com/user-attachments/assets/2e62e900-01ba-426c-b187-1b8b30bb7fed"/>
   .... Firebase
 </p>
 
